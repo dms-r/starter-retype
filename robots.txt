@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dms-r.github.io/XXX/sitemap.xml.gz
