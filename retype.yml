@@ -1,0 +1,27 @@
+input: .
+output: .retype
+
+url: dms-r.github.io/XXX # Use your website address here
+# cname: XXX
+
+start:
+  # Uncomment the next line to try Retype Pro features
+  pro: true
+
+branding:
+  title: Template
+  label: retype
+
+links:
+  # - text: dpublic
+  #   link: https://dpublic.my.id/
+  #   target: blank
+  # - text: dblog
+  #   link: https://blog.dpublic.my.id/
+  #   target: blank
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  links:
+    - text: dpublic
+      link: https://dpublic.my.id/
